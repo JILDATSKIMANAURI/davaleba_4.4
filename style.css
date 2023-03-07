@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+.container1{
+    padding-left: 431px;
+    padding-right: 431px;
+}
+.container2{
+    padding-left: 42px;
+    padding-right: 820px;
+}
+.container3{
+    padding-left: 819px;
+    padding-right: 43px;
+}
+.container4{
+    padding-left: 42px;
+    padding-right: 43px;
+}
+    
